@@ -42,4 +42,8 @@ Customize the prompt and input text for generating questions in main.py.
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-   
+
+
+
+<img width="503" alt="image" src="https://github.com/Highnotch/Generative-learning-from-Question-Generation-from-PDF/assets/95304789/28460a25-d157-413d-89d0-c207241eaca0">
+
