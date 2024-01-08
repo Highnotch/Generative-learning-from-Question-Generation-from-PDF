@@ -1,7 +1,8 @@
 # Generative-learning-from-Question-Generation-from-PDF
 The Generative Learning Hub
 
-![Uploading image.png…]()
+<img width="503" alt="image" src="https://github.com/Highnotch/Generative-learning-from-Question-Generation-from-PDF/assets/95304789/2a732290-f7f5-4eaa-b9a4-8507dc4055f0">
+
 
 # PyQuestionGenerator
 
