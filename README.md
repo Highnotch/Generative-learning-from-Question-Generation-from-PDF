@@ -49,5 +49,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 
-<img width="503" alt="image" src="https://github.com/Highnotch/Generative-learning-from-Question-Generation-from-PDF/assets/95304789/28460a25-d157-413d-89d0-c207241eaca0">
-
