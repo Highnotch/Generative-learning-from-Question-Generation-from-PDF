@@ -22,6 +22,10 @@ The Generative Learning Hub
 2. Access the generated questions through the `/get_questions` endpoint.
 3. View questions in a formatted HTML output with options, answers, and metadata.
 
+## Demo Video & Code-walkthrough link:
+[Link](https://drive.google.com/file/d/1_J0Kc3ruerjkL3Pw8x7DRqTR6YhqP-KU/view?usp=sharing).
+
+
 ## Installation
 
 1. Clone the repository:
