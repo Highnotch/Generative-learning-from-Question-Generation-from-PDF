@@ -6,7 +6,7 @@ from PyPDF2 import PdfFileReader
 import openai
 
 # Sujith's API_key=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
-openai.api_key = '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'
+openai.api_key = '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'
 
 import PyPDF2
 
