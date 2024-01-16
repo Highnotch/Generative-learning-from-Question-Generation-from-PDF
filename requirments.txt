@@ -2,4 +2,4 @@ PyPDF2
 openai
 fastapi
 uvicorn
-re
+
